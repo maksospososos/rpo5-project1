@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "name": "iPhone 15 Pro",
+        "brand": "Apple",
+        "price": 99990,
+        "specs": "A17 Pro, 6.1 дюйм, 256GB, titanium"
+    },
+    {
+        "id": 2,
+        "name": "Galaxy S24 Ultra",
+        "brand": "Samsung",
+        "price": 89990,
+        "specs": "Snapdragon 8 Gen 3, 6.8 дюйм, 512GB"
+    },
+    {
+        "id": 3,
+        "name": "MacBook Air M3",
+        "brand": "Apple",
+        "price": 129990,
+        "specs": "M3, 13.6 дюйм, 16GB RAM, 512GB SSD"
+    },
+    {
+        "id": 4,
+        "name": "Galaxy Tab S9",
+        "brand": "Samsung",
+        "price": 59990,
+        "specs": "Snapdragon 8 Gen 2, 11 дюйм, 128GB"
+    },
+    {
+        "id": 5,
+        "name": "Xiaomi 14",
+        "brand": "Xiaomi",
+        "price": 49990,
+        "specs": "Snapdragon 8 Gen 3, 6.36 дюйм, 256GB"
+    }
+]
